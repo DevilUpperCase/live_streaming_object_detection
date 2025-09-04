@@ -6,7 +6,7 @@ This repository demonstrates a Python script that performs object detection on l
 
 Below is a sample GIF created by the script, demonstrating YOLOv8's object detection capabilities:
 
-![Sample Output](last_5_seconds.gif)
+![Sample Output](https://storage.googleapis.com/taratic_website_bucket/davdperaza_website/images/last_5_seconds_yolo_straming_to_gif__optimized_GIF.webp)
 
 
 ## Features
