@@ -1,4 +1,4 @@
-# YOLO Live Streaming to GIF
+# Object Detection for Live Streaming
 
 This repository demonstrates a Python script that performs object detection on live streams using [YOLOv8](https://github.com/ultralytics/ultralytics) and dynamically generates a GIF from the last 5 seconds of the stream.
 
